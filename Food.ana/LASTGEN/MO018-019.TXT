@@ -1,0 +1,5 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Vue_Famille_Personne_Jour_Categorie_Quantite	IDJour	VWRUB+		La rubrique IDJour a été ajoutée.
+Vue_Famille_Personne_Jour_Categorie_Quantite	IDFamille	VWRUB+		La rubrique IDFamille a été ajoutée.
+Vue_Famille_Personne_Jour_Categorie_Quantite	IDPersonne	VWRUB-		La rubrique IDPersonne a été supprimée.
+Vue_Famille_Personne_Jour_Categorie_Quantite	IDType	VWRUB-		La rubrique IDType a été supprimée.

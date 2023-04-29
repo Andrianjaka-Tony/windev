@@ -1,0 +1,3 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Vue_Nombre_Categorie_Famille_Jour	IDFamille	VWRUBNT	Identifiant automatique (8 octets)$Entier sur 8 octets	La rubrique 1!s! a pour nouveau type Identifiant automatique (8 octets)
+Vue_Nombre_Personne_Famille_Jour		VIEW+		La vue Vue_Nombre_Personne_Famille_Jour a été créée.

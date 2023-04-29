@@ -1,0 +1,2 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Vue_Nombre_Categorie_Famille_Jour		VIEW+		La vue Vue_Nombre_Categorie_Famille_Jour a été créée.

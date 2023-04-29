@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Famille		NFI		nouveau fichier
+Famille		FIC-	Famille	Fichier supprimé Famille

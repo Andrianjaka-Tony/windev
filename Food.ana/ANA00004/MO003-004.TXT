@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Personne		NFI		nouveau fichier
+Famille_Personne		NWL	Famille (IDFamille) et Personne (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et Personne (IDFamille)
+Type_Personne		NWL	Type (IDType) et Personne (IDType)	Nouvelle liaison entre les fichiers Type (IDType) et Personne (IDType)
